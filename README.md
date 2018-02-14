@@ -34,7 +34,7 @@ Boeing | ? | ? | ? | Coq (no proof)
 IBM | USA | ? | ? | ([Paul E. Mckenney's working for IBM](https://paulmck.livejournal.com/tag/promela)) (Spin), [Site](https://www.research.ibm.com/haifa/dept/vst/hvt.shtml)
 [Intel](https://www.intel.com/) | USA | [Yes](http://jobs.intel.com/ListJobs/All/Search/jobtitle/verification-engineer/) | Hardware | [Book](https://link.springer.com/chapter/10.1007%2F978-3-540-69850-0_8?LI=true) | ?
 [InfoTecs](https://infotecs.ru/) | ? | ? | ? | [Paper](https://dl.acm.org/citation.cfm?doid=3123569.3123571) (Coq)
-[Kernkonzept](https://www.kernkonzept.com/) | Germany | - | - | [Site](https://www.kernkonzept.com/) | ?
+[Kernkonzept](https://www.kernkonzept.com/) | Germany | [Yes](https://www.kernkonzept.com/jobs.html) | Operating systems | [Site](https://www.kernkonzept.com/) | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | No | Security/AV | [Interview](https://xakep.ru/2012/11/26/kaspersky-os/)
 [Machine Zone Inc.](https://www.mz.com/) | Russia | ? | Mobile gaming software, Real-time computing, Cloud-based networking  | [Twitter](https://twitter.com/levwalkin/status/827129877186752513) (TLA+)
 [Microsoft](https://www.microsoft.com/) | Redmond, USA | - | Software development | [Site](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [XBox360 memory system](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s) (TLA+) | ?

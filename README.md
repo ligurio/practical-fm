@@ -36,9 +36,9 @@ IBM | USA | ? | ? | ([Paul E. Mckenney's working for IBM](https://paulmck.livejo
 [InfoTecs](https://infotecs.ru/) | ? | ? | ? | [Paper](https://dl.acm.org/citation.cfm?doid=3123569.3123571) (Coq)
 [Kernkonzept](https://www.kernkonzept.com/) | Germany | - | - | [Site](https://www.kernkonzept.com/) | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | No | Security/AV | [Interview](https://xakep.ru/2012/11/26/kaspersky-os/)
-[Machine Zone Inc.](https://www.mz.com/) | Russia | Mobile gaming software, Real-time computing, Cloud-based networking  | ? | [Twitter](https://twitter.com/levwalkin/status/827129877186752513) (TLA+)
+[Machine Zone Inc.](https://www.mz.com/) | Russia | ? | Mobile gaming software, Real-time computing, Cloud-based networking  | [Twitter](https://twitter.com/levwalkin/status/827129877186752513) (TLA+)
 [Microsoft](https://www.microsoft.com/) | Redmond, USA | - | Software development | [Site](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [XBox360 memory system](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s) (TLA+) | ?
-[MongoDB]() | New York, NY United States | https://www.mongodb.com/careers/departments | Software development | [source](https://github.com/visualzhou/mongo-repl-tla) | 
+[MongoDB]() | New York, NY United States | [Yes](https://www.mongodb.com/careers/departments) | Software development | [source](https://github.com/visualzhou/mongo-repl-tla) | 
 NASA | USA | ? | ? | [Site](https://shemesh.larc.nasa.gov/fm/)
 [Spotify](https://www.spotify.com/int/about-us/contact/) | - | - | - | [Slides](https://www.cs.tut.fi/tapahtumat/testaus12/kalvot/Karl_ta.pdf) | ?
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | - |  High Assurance Systems | - | ?

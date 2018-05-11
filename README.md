@@ -50,6 +50,7 @@ Synopsis | ? | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [МЦСТ](http://www.mcst.ru/) | Moscow, Russia | ? | ? | SPIN/Promela [Source](https://www.youtube.com/watch?v=67eD3hLmU_8&t=43s)
 [ISP RAS](http://ispras.ru/) | Moscow, Russia | ? | ? | SPIN/Promela
 [T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia ? | ? | - | Coq, SPIN/Promela, TLA+, McErlang, mCRL2 [Source](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
+CERN | Genève, Switzerland | ? | - | mCRL2 [Source](https://www.mcrl2.org/web/user_manual/showcases/CMS.html)
 
 ### See also
 

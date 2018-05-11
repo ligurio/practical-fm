@@ -33,7 +33,7 @@ Boeing | ? | ? | ? | Coq (no proof)
 [Galois](https://galois.com) | Portland, Oregon, USA | Yes | Consulting/Research | ?
 IBM | USA | ? | ? | SPIN/Promela Sources: [1](https://paulmck.livejournal.com/tag/promela)), [2](https://www.research.ibm.com/haifa/dept/vst/hvt.shtml)
 [Intel](https://www.intel.com/) | USA | [Yes](http://jobs.intel.com/ListJobs/All/Search/jobtitle/verification-engineer/) | Hardware | [Book](https://link.springer.com/chapter/10.1007%2F978-3-540-69850-0_8?LI=true) | ?
-[InfoTecs](https://infotecs.ru/) | ? | ? | ? |  Coq [Source](https://dl.acm.org/citation.cfm?doid=3123569.3123571)
+[InfoTecs](https://infotecs.ru/) | ? | ? | ? |  TLA+, Coq Sources: [1](https://dl.acm.org/citation.cfm?doid=3123569.3123571), [2](https://osday.ru/presentations/shishkin/shishkin.pdf)
 [Kernkonzept](https://www.kernkonzept.com/) | Germany | [Yes](https://www.kernkonzept.com/jobs.html) | Operating systems | [Source](https://www.kernkonzept.com/) | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | No | Security/AV | [Source](https://xakep.ru/2012/11/26/kaspersky-os/)
 [Machine Zone Inc.](https://www.mz.com/) | Russia | ? | Mobile gaming software, Real-time computing, Cloud-based networking  |  TLA+ [Source](https://twitter.com/levwalkin/status/827129877186752513)
@@ -49,6 +49,7 @@ Synopsis | ? | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [Volvo Car Corporation](https://www.volvocars.com/) | Göteborg, Sweden | ? | Automotive | [Source](https://twitter.com/quviq/status/887951935621431296) | ? |
 [МЦСТ](http://www.mcst.ru/) | Moscow, Russia | ? | ? | SPIN/Promela [Source](https://www.youtube.com/watch?v=67eD3hLmU_8&t=43s)
 [ISP RAS](http://ispras.ru/) | Moscow, Russia | ? | ? | SPIN/Promela
+[T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia ? | ? | - | Coq, SPIN/Promela, TLA+, McErlang, mCRL2 [Source](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
 
 ### See also
 

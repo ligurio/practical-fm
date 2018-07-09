@@ -51,6 +51,7 @@ Synopsis | ? | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [ISP RAS](http://ispras.ru/) | Moscow, Russia | ? | ? | SPIN/Promela
 [T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia ? | ? | - | Coq, SPIN/Promela, TLA+, McErlang, mCRL2 [Source](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
 CERN | Genève, Switzerland | ? | - | mCRL2 [Source](https://www.mcrl2.org/web/user_manual/showcases/CMS.html)
+Ziliqa | ? | [Yes](https://www.zilliqa.com/careers.html) | Blockchain | Coq
 
 ### See also
 

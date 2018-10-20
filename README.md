@@ -7,7 +7,7 @@ If the company is hiring please include a link to the ad.
 | Name | Location | Sector | Source |
 | :--- | :------- | :----- | :----- |
 [Amazon](https://www.amazon.com/) | USA | Online shopping, Cloud computing | ```TLA+``` [How Amazon Web Services Uses Formal Methods](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/abstract), [Use of Formal Methods at Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon.html)
-[Airbus](http://www.airbus.com/) | France |  | ```Coq``` [Interview with Xavier Leroy](https://www.cs.cmu.edu/~popl-interviews/leroy.html)
+[Airbus](http://www.airbus.com/) | France |  | ```Astr ́ee```, ```Coq``` [Interview with Xavier Leroy](https://www.cs.cmu.edu/~popl-interviews/leroy.html)
 [Altran](https://www.altran.com/us/en/) | France, Paris |  | ```SPARK``` [SPARK contributors](http://www.spark-2014.org/contributors)
 [Apple](https://www.apple.com/) | Santa Clara Valley, California, USA | Hardware and Software |
 [ARM](https://www.arm.com/company) | USA, California, San Jose | Hardware | [Verifying against the official ARM specification](https://alastairreid.github.io/using-armarm/), ```TLA+``` [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/cmarinas/kernel-tla.git/about/)
@@ -19,7 +19,7 @@ If the company is hiring please include a link to the ad.
 [Ethereum](https://ethereum.org/) | Switzerland | | ```Why3``` [Dev Update: Formal Methods](https://blog.ethereum.org/2016/09/01/formal-methods-roadmap/), ```Isabelle/HOL``` [A Lem formalization of EVM and some Isabelle/HOL proofs](https://github.com/pirapira/eth-isabelle), ```Coq``` [Formal Verification of Ethereum Contracts](https://github.com/pirapira/ethereum-formal-verification-overview)
 [eSpark Learning](https://www.esparklearning.com/) | USA, IL, Chicago | ? | ```TLA+``` [Formal Methods in Practice: Using TLA+ at eSpark Learning](https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f)
 [Elastic](https://www.elastic.co/) | ? | ? | ```TLA+``` [elasticsearch-tla](https://github.com/elastic/elasticsearch-tla)
-[Facebook](https://www.facebook.com/) | USA |  | [Moving Fast with Software Verification](https://research.fb.com/wp-content/uploads/2016/11/publication00124_download0001.pdf)
+[Facebook](https://www.facebook.com/) | USA |  | ```INFER``` [Moving Fast with Software Verification](https://research.fb.com/wp-content/uploads/2016/11/publication00124_download0001.pdf)
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ```Coq``` (?)
 [Grammatech](https://www.grammatech.com/about) | | | ```Frama-C``` [C Library annotations in ACSL for Frama-C: experience report](http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf)
 IBM | USA | ? | ```SPIN/Promela``` [Paul E. McKenney's Journal](https://paulmck.livejournal.com/tag/promela), [What is RCU, Fundamentally?](https://lwn.net/Articles/262464/) (Linux Kernel, RCU)
@@ -29,7 +29,7 @@ IBM | USA | ? | ```SPIN/Promela``` [Paul E. McKenney's Journal](https://paulmck.
 [Kernkonzept](https://www.kernkonzept.com/) | Germany | Operating systems | [Site](https://www.kernkonzept.com/)
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | [Что представляет собой операционная система Kaspesky OS?](https://xakep.ru/2012/11/26/kaspersky-os/)
 [Machine Zone Inc.](https://www.mz.com/) | Russia | Mobile gaming software, Real-time computing, Cloud-based networking  | ```TLA+``` [Twitter](https://twitter.com/levwalkin/status/827129877186752513)
-[Microsoft](https://www.microsoft.com/) | Redmond, USA | Software development | ```TLA+``` [TLA+ Proofs](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [Thinking for Programmers](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s), [High-level TLA+ specifications for the five consistency levels offered by Azure Cosmos DB](https://github.com/Azure/azure-cosmos-tla)
+[Microsoft](https://www.microsoft.com/) | Redmond, USA | Software development | ```TLA+``` [TLA+ Proofs](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [Thinking for Programmers](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s), [High-level TLA+ specifications for the five consistency levels offered by Azure Cosmos DB](https://github.com/Azure/azure-cosmos-tla), ```Microsoft’s Static Driver Verifier``` [Thorough static analysis of device drivers](https://www.microsoft.com/en-us/research/publication/thorough-static-analysis-of-device-drivers/)
 MongoDB | New York, USA | Software development | ```TLA+``` [TLA+ Spec of a simplified part of MongoDB replication system](https://github.com/visualzhou/mongo-repl-tla)
 NASA | USA | ? | ```PVS``` [NASA Langley Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/)
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)

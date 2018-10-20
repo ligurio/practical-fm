@@ -30,8 +30,7 @@ IBM | USA | ? | ```SPIN/Promela``` [Paul E. McKenney's Journal](https://paulmck.
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | [Что представляет собой операционная система Kaspesky OS?](https://xakep.ru/2012/11/26/kaspersky-os/)
 [Machine Zone Inc.](https://www.mz.com/) | Russia | Mobile gaming software, Real-time computing, Cloud-based networking  | ```TLA+``` [Twitter](https://twitter.com/levwalkin/status/827129877186752513)
 [Microsoft](https://www.microsoft.com/) | Redmond, USA | Software development | ```TLA+``` [TLA+ Proofs](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [Thinking for Programmers](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s), [High-level TLA+ specifications for the five consistency levels offered by Azure Cosmos DB](https://github.com/Azure/azure-cosmos-tla)
-MongoDB | New York, USA | Software development | ```TLA+``` [TLA+ Spec of a simplified part of MongoDB replication system
-](https://github.com/visualzhou/mongo-repl-tla) 
+MongoDB | New York, USA | Software development | ```TLA+``` [TLA+ Spec of a simplified part of MongoDB replication system](https://github.com/visualzhou/mongo-repl-tla)
 NASA | USA | ? | ```PVS``` [NASA Langley Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/)
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | ?

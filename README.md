@@ -7,7 +7,6 @@ If the company is hiring please include a link to the ad.
 * TLA+ https://particular.net/ 
    * https://github.com/tmasternak/NServiceBus.ModelChecking
    * https://mobile.twitter.com/Masternak/status/827815535031250944 
-* [Grammatech](https://www.grammatech.com/about) - http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf
 * [These teams have in-house development and research teams working on formal methods](https://www.reddit.com/r/practicalfm/comments/7436g4/a_list_of_companies_that_use_formal_methods/dt54410/):
   * H/W: Mentor Graphics, Intel, Cadence, Synopsys.
   * Cyber-Physical/Control systems: Reactive Systems Inc, Mathworks, Boeing, GE, Toyota ITC
@@ -32,6 +31,7 @@ Boeing | ? | ? | ? | Coq (no proof)
 [Facebook](https://www.facebook.com/) | USA | ? |  | [Moving Fast with Software Verification](https://research.fb.com/wp-content/uploads/2016/11/publication00124_download0001.pdf)
 [Galois](https://galois.com) | Portland, Oregon, USA | Yes | Consulting/Research | ?
 IBM | USA | ? | ? | SPIN/Promela Sources: [1](https://paulmck.livejournal.com/tag/promela)), [2](https://www.research.ibm.com/haifa/dept/vst/hvt.shtml)
+[Grammatech](https://www.grammatech.com/about) | | | | [C Library annotations in ACSL for Frama-C: experience report](http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf)
 [Intel](https://www.intel.com/) | USA | [Yes](http://jobs.intel.com/ListJobs/All/Search/jobtitle/verification-engineer/) | Hardware | [Book](https://link.springer.com/chapter/10.1007%2F978-3-540-69850-0_8?LI=true) | ?
 [InfoTecs](https://infotecs.ru/) | ? | ? | ? |  TLA+, Coq Sources: [1](https://dl.acm.org/citation.cfm?doid=3123569.3123571), [2](https://osday.ru/presentations/shishkin/shishkin.pdf)
 [Kernkonzept](https://www.kernkonzept.com/) | Germany | [Yes](https://www.kernkonzept.com/jobs.html) | Operating systems | [Source](https://www.kernkonzept.com/) | ?

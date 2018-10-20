@@ -19,7 +19,7 @@ If the company is hiring please include a link to the ad.
 [Airbus](http://www.airbus.com/) | France | ? | | [Interview with Xavier Leroy](https://www.cs.cmu.edu/~popl-interviews/leroy.html)
 [Altran](https://www.altran.com/us/en/) | France, Paris | ? | - | [Source](https://www.reddit.com/r/practicalfm/comments/7436g4/a_list_of_companies_that_use_formal_methods/dnwrvxq/)
 [Apple](https://www.apple.com/) | Santa Clara Valley, California, USA | [Yes](https://jobs.apple.com/search?job=31782278&openJobId=31782278#&ss=Verification%20Engineer&t=0&so=&pN=0) | ? | ?
-[ARM](https://www.arm.com/company) | USA, California, San Jose | ? | Hardware | [Source](https://www.reddit.com/r/practicalfm/comments/7436g4/a_list_of_companies_that_use_formal_methods/dnxrh5l/) |
+[ARM](https://www.arm.com/company) | USA, California, San Jose | ? | Hardware | [Source](https://www.reddit.com/r/practicalfm/comments/7436g4/a_list_of_companies_that_use_formal_methods/dnxrh5l/), [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/cmarinas/kernel-tla.git/about/) |
 [AdaCore](http://www.adacore.com/company) | USA, NY, New York | ? | ? | ?
 [BAE Systems](http://www.baesystems.com/en/home) | | | | [Source](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/) | 
 Boeing | ? | ? | ? | Coq (no proof)

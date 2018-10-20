@@ -40,6 +40,7 @@ IBM | USA | ? | ? | SPIN/Promela Sources: [1](https://paulmck.livejournal.com/ta
 [Microsoft](https://www.microsoft.com/) | Redmond, USA | - | Software development | TLA+ Sources: [1](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [2](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s) | ?
 [MongoDB]() | New York, NY United States | [Yes](https://www.mongodb.com/careers/departments) | Software development | TLA+ [Source](https://github.com/visualzhou/mongo-repl-tla) | 
 NASA | USA | ? | ? | [Site](https://shemesh.larc.nasa.gov/fm/)
+PingCAP | | | | [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Spotify](https://www.spotify.com/int/about-us/contact/) | - | - | - | [Source](https://www.cs.tut.fi/tapahtumat/testaus12/kalvot/Karl_ta.pdf) | ?
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | - |  High Assurance Systems | - | ?
 Synopsis | ? | ? | ? | [Site](https://www.synopsys.com/verification.html)

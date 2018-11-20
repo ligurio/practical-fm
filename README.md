@@ -37,11 +37,11 @@ PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 Synopsis | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [TrustInSoft](https://trust-in-soft.com/) | USA, CA, San Francisco | - | ```TrustInSoft Analyzer``` [Site](https://trust-in-soft.com/polarssl-verification-kit/)
 [Trustworthy Systems](https://ts.data61.csiro.au/) | Australia, Sydney  |  | ```Isabelle/HOL```, ```Coq``` [Site](https://ts.data61.csiro.au/projects/TS/l4.verified/)
-[JetBrains](https://jetbrains.org) | Saint Petersburg, Russia | - | [Site](https://research.jetbrains.org/ru/groups/group-for-dependent-types-and-hott) | ?
-[МЦСТ](http://www.mcst.ru/) | Moscow, Russia | ? | ? | ```SPIN/Promela``` [Методы и средства верификации протоколов когерентности памяти](https://www.youtube.com/watch?v=67eD3hLmU_8&t=43s)
+[JetBrains](https://jetbrains.org) | Saint Petersburg, Russia | - | [Site](https://research.jetbrains.org/ru/groups/group-for-dependent-types-and-hott)
+[МЦСТ](http://www.mcst.ru/) | Moscow, Russia | ? | ```SPIN/Promela``` [Методы и средства верификации протоколов когерентности памяти](https://www.youtube.com/watch?v=67eD3hLmU_8&t=43s)
 [T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia | - | ```Coq```, ```SPIN/Promela```, ```TLA+```, ```McErlang```, ```mCRL2``` [Employee CV](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
 CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experiment at CERN’s Large Hadron Collider](https://www.mcrl2.org/web/user_manual/showcases/CMS.html)
-Ziliqa | ? | | Blockchain | ```Coq```
+Ziliqa | ? | Blockchain | ```Coq```
 
 ### See also
 

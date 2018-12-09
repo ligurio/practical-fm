@@ -1,4 +1,4 @@
-## A List of companies that use Formal methods in Software engineering
+## A List of companies that use formal verification methods in software engineering
 
 If you see a company on the list that doesn't exist anymore, or does not use formal methods anymore,
 please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses formal methods but is not on the list. Please include the website, github (if applicable), locations, and sector.

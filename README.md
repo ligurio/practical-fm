@@ -1,7 +1,6 @@
 ## A List of companies that use formal verification methods in software engineering
 
 If you see a company on the list that doesn't exist anymore, or does not use formal methods anymore,
-please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses formal methods but is not on the list. Please include the website, github (if applicable), locations, and sector.
 If the company is hiring please include a link to the ad.
 
 | Name | Location | Sector | Source |
@@ -26,7 +25,7 @@ If the company is hiring please include a link to the ad.
 [Grammatech](https://www.grammatech.com/about) | | | ```Frama-C``` [C Library annotations in ACSL for Frama-C: experience report](http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf)
 [Green Hills Software](https://www.ghs.com/) | USA | Aerospace | ```ACL2``` [Industrial Use of ACL2](http://www.cs.man.ac.uk/~regerg/arcade/papers/paper_12.pdf)
 IBM | USA | ? | ```SPIN/Promela``` [Paul E. McKenney's Journal](https://paulmck.livejournal.com/tag/promela), [What is RCU, Fundamentally?](https://lwn.net/Articles/262464/) (Linux Kernel, RCU)
-[Intel](https://www.intel.com/) | USA | Hardware | [Fifteen Years of Formal Property Verification in Intel]q(https://link.springer.com/chapter/10.1007%2F978-3-540-69850-0_8?LI=true)
+[Intel](https://www.intel.com/) | USA | Hardware | [Fifteen Years of Formal Property Verification in Intel](https://link.springer.com/chapter/10.1007%2F978-3-540-69850-0_8?LI=true)
 [InfoTecs](https://infotecs.ru/) | Russia, Moscow |  |  ```TLA+```, ```Coq```, [Construction and formal verification of a fault-tolerant distributed mutual exclusion algorithm](https://dl.acm.org/citation.cfm?doid=3123569.3123571), [Построение и верификация отказоустойчивого алгоритма распределенной блокировки](https://osday.ru/presentations/day1/Shishkin.pdf)
 [ISP RAS](http://ispras.ru/) | Moscow, Russia | Operating systems; hardware | ```Frama-C```, ```Jessie```, ```Why3``` [Astraver](https://forge.ispras.ru/projects/astraver); ```SPIN/Promela```, ```Microtesk``` [Site](http://microtesk.org/)
 [Kernkonzept](https://www.kernkonzept.com/) | Germany | Operating systems | [Site](https://www.kernkonzept.com/)

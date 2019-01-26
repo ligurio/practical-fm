@@ -13,6 +13,7 @@ If the company is hiring please include a link to the ad.
 [ARM](https://www.arm.com/company) | USA, California, San Jose | Hardware | [Verifying against the official ARM specification](https://alastairreid.github.io/using-armarm/), ```TLA+``` [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/cmarinas/kernel-tla.git/about/)
 [AdaCore](http://www.adacore.com/company) | USA, New York | ? | ?
 [BAE Systems](http://www.baesystems.com/en/home) | | | ```Coq``` [Reddit](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/)
+[Bedrock Systems](https://www.bedrocksystems.com/) | USA, Menlo Park, CA | ? | ? 
 [The Boeing Company](http://www.boeing.com/) | USA | Aerospace, Defense |```Coq``` (no proof)
 [Centaur Technology](https://centtech.com/) | USA | Hardware | ``ACL2`` | ```ACL2``` [Industrial Use of ACL2]
 [Cog Systems](https://cog.systems/) | Australia, New South Wales, Sydney | | [Site](https://cog.systems/d4-secure-sdk/)

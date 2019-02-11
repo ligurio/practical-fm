@@ -7,7 +7,7 @@ If the company is hiring please include a link to the ad.
 | Name | Location | Sector | Source |
 | :--- | :------- | :----- | :----- |
 [Amazon](https://www.amazon.com/) | USA | eCommerce, Cloud computing | ```TLA+``` [How Amazon Web Services Uses Formal Methods](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/abstract), [Use of Formal Methods at Amazon Web Services](http://lamport.azurewebsites.net/tla/amazon.html)
-[Airbus](http://www.airbus.com/) | France |  | ```Astr ́ee```, ```Coq``` [Interview with Xavier Leroy](https://www.cs.cmu.edu/~popl-interviews/leroy.html)
+[Airbus](http://www.airbus.com/) | France |  | ```Astr ́ee```: "In 2003, Astrée proved the absence of any runtime errors in the primary flight-control software of an Airbus model. The system’s 132,000 lines of C code were analyzed completely automatically in only 80 minutes on a 2.8GHz 32-bit PC using 300MB of memory (and in only 50 minutes on an AMD Athlon 64 using 580MB of memory). Since then, Airbus France has been using Astrée in the development of safety-critical software for vari­ous plane series, including the A380.", ```Coq``` ([Interview with Xavier Leroy](https://www.cs.cmu.edu/~popl-interviews/leroy.html))
 [Altran](https://www.altran.com/us/en/) | France, Paris |  | ```SPARK``` [SPARK contributors](http://www.spark-2014.org/contributors)
 [Apple](https://www.apple.com/) | Santa Clara Valley, California, USA | Hardware and Software |
 [ARM](https://www.arm.com/company) | USA, California, San Jose | Hardware | [Verifying against the official ARM specification](https://alastairreid.github.io/using-armarm/), ```TLA+``` [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/cmarinas/kernel-tla.git/about/)
@@ -15,6 +15,7 @@ If the company is hiring please include a link to the ad.
 [BAE Systems](http://www.baesystems.com/en/home) | | | ```Coq``` [Reddit](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/)
 [Bedrock Systems](https://www.bedrocksystems.com/) | USA, Menlo Park, CA | ? | ? 
 [The Boeing Company](http://www.boeing.com/) | USA | Aerospace, Defense |```Coq``` (no proof)
+[Bosch](https://www.bosch.com/) | Germany | Automotive | [Astrée](https://www.absint.com/bosch_as.htm)
 [Centaur Technology](https://centtech.com/) | USA | Hardware | ``ACL2`` | ```ACL2``` [Industrial Use of ACL2]
 [Cog Systems](https://cog.systems/) | Australia, New South Wales, Sydney | | [Site](https://cog.systems/d4-secure-sdk/)
 [Data61](https://www.csiro.au/) | Australia | | ``` Isabelle/HOL``` (seL4)

@@ -24,7 +24,7 @@ If the company is hiring please include a link to the ad.
 [Elastic](https://www.elastic.co/) | Global | Search & analytics software | ```TLA+``` ```Isabelle/HOL``` [elasticsearch-formal-models repository](https://github.com/elastic/elasticsearch-formal-models) [conference talk](https://www.elastic.co/elasticon/conf/2018/sf/reliable-by-design-applying-formal-methods-to-distributed-systems) and [current open positions](https://www.elastic.co/about/careers#engineering)
 [Facebook](https://www.facebook.com/) | USA |  | ```INFER``` [Moving Fast with Software Verification](https://research.fb.com/wp-content/uploads/2016/11/publication00124_download0001.pdf)
 [FireEye](https://www.fireeye.com/) | Dresden, Germany (team defunct) | Security | ```Coq``` [Job announcement: formal methods engineer and scientific developer at FireEye](https://coq-club.inria.narkive.com/KjBqxSSI/job-announcement-formal-methods-engineer-and-scientific-developer-at-fireeye)
-[FinProof](https://finproof.io/v2/) | Russia, SPb | Finance | ```Coq```, ```Agda```
+[FinProof](https://finproof.io/v2/) | Russia, SPb | Finance (Blockchain) | ```Coq```, ```Agda```
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ```Coq``` (?)
 [Grammatech](https://www.grammatech.com/about) | | | ```Frama-C``` [C Library annotations in ACSL for Frama-C: experience report](http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf)
 [Green Hills Software](https://www.ghs.com/) | USA | Aerospace | ```ACL2``` [Industrial Use of ACL2](http://www.cs.man.ac.uk/~regerg/arcade/papers/paper_12.pdf)

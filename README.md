@@ -40,7 +40,7 @@ MongoDB | New York, USA | Software development | ```TLA+``` [TLA+ Spec of a simp
 NASA | USA | Space | ```PVS``` [NASA Langley Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/). ```JPF``` [Java Pathfinder](https://en.wikipedia.org/wiki/Java_Pathfinder),  [Robust Software Engineering Group](https://ti.arc.nasa.gov/tech/rse/),  ```Model Checking``` [Jet Propulsion Laboratory](https://lars-lab.jpl.nasa.gov/projects.html)
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | ?
-Synopsis | ? | ? | [Site](https://www.synopsys.com/verification.html)
+[Synopsis](https://www.synopsys.com/) | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [SiFive](https://www.sifive.com) | USA, San Francisco Bay Area | Hardware | ```Coq``` [LinkedIn](https://www.linkedin.com/jobs/view/coq-proof-assistant-based-formal-verification-at-sifive-800018056/)
 [TrustInSoft](https://trust-in-soft.com/) | USA, CA, San Francisco | - | ```TrustInSoft Analyzer``` [Site](https://trust-in-soft.com/polarssl-verification-kit/)
 [Trustworthy Systems](https://ts.data61.csiro.au/) | Australia, Sydney  |  | ```Isabelle/HOL```, ```Coq``` [Site](https://ts.data61.csiro.au/projects/TS/l4.verified/)
@@ -48,7 +48,7 @@ Synopsis | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [МЦСТ](http://www.mcst.ru/) | Moscow, Russia | ? | ```SPIN/Promela``` [Методы и средства верификации протоколов когерентности памяти](https://www.youtube.com/watch?v=67eD3hLmU_8&t=43s)
 [T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia | - | ```Coq```, ```SPIN/Promela```, ```TLA+```, ```McErlang```, ```mCRL2``` [Employee CV](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
 CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experiment at CERN’s Large Hadron Collider](https://www.mcrl2.org/web/user_manual/showcases/CMS.html)
-Ziliqa | ? | Blockchain | ```Coq```
+[Ziliqa](https://zilliqa.com/) | ? | Blockchain | ```Coq```
 
 ### See also
 

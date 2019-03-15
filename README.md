@@ -38,8 +38,9 @@ IBM | USA | ? | ```SPIN/Promela``` [Paul E. McKenney's Journal](https://paulmck.
 [Microsoft](https://www.microsoft.com/) | Redmond, USA | Software development | ```TLA+``` [TLA+ Proofs](https://www.microsoft.com/en-us/research/publication/tla-proofs/), [Thinking for Programmers](https://channel9.msdn.com/Events/Build/2014/3-642#time=21m46s), [High-level TLA+ specifications for the five consistency levels offered by Azure Cosmos DB](https://github.com/Azure/azure-cosmos-tla), ```Microsoft’s Static Driver Verifier``` [Thorough static analysis of device drivers](https://www.microsoft.com/en-us/research/publication/thorough-static-analysis-of-device-drivers/)
 MongoDB | New York, USA | Software development | ```TLA+``` [TLA+ Spec of a simplified part of MongoDB replication system](https://github.com/visualzhou/mongo-repl-tla)
 NASA | USA | Space | ```PVS``` [NASA Langley Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/). ```JPF``` [Java Pathfinder](https://en.wikipedia.org/wiki/Java_Pathfinder),  [Robust Software Engineering Group](https://ti.arc.nasa.gov/tech/rse/),  ```Model Checking``` [Jet Propulsion Laboratory](https://lars-lab.jpl.nasa.gov/projects.html)
+[Particular Software](https://particular.net/) | | | ```TLA+``` [TLA+ Specifications for NServiceBus](https://github.com/tmasternak/NServiceBus.ModelChecking)
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
-[Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | ?
+[Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | [Formal Methods in the Aerospace Industry: Follow the Money](http://www.jaist.ac.jp/icfem2012/Cofer-ICFEM2012.pdf)
 [Synopsis](https://www.synopsys.com/) | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [SiFive](https://www.sifive.com) | USA, San Francisco Bay Area | Hardware | ```Coq``` [LinkedIn](https://www.linkedin.com/jobs/view/coq-proof-assistant-based-formal-verification-at-sifive-800018056/)
 [TrustInSoft](https://trust-in-soft.com/) | USA, CA, San Francisco | - | ```TrustInSoft Analyzer``` [Site](https://trust-in-soft.com/polarssl-verification-kit/)
@@ -54,13 +55,3 @@ CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experim
 
 * [Formal Methods Companies](http://formalmethods.wikia.com/wiki/Companies) (outdated)
 * Open vacancies on [indeed.com](https://www.indeed.com/q-Logic-Formal-Verification-jobs.html)
-
-
-* TLA+ https://particular.net/ 
-   * https://github.com/tmasternak/NServiceBus.ModelChecking
-   * https://mobile.twitter.com/Masternak/status/827815535031250944 
-* [These teams have in-house development and research teams working on formal methods](https://www.reddit.com/r/practicalfm/comments/7436g4/a_list_of_companies_that_use_formal_methods/dt54410/):
-  * H/W: Mentor Graphics, Intel, Cadence, Synopsys.
-  * Cyber-Physical/Control systems: Reactive Systems Inc, Mathworks, Boeing, GE, Toyota ITC
-  * S/W: Facebook, Apple, Coverity, Amazon
-  * Research labs: PARC (Xerox), SRI

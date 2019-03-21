@@ -12,6 +12,7 @@ If the company is hiring please include a link to the ad.
 [Apple](https://www.apple.com/) | Santa Clara Valley, California, USA | Hardware and Software |
 [ARM](https://www.arm.com/company) | USA, California, San Jose | Hardware | [Verifying against the official ARM specification](https://alastairreid.github.io/using-armarm/), ```TLA+``` [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/cmarinas/kernel-tla.git/about/)
 [AdaCore](http://www.adacore.com/company) | USA, New York | ? | ?
+[Alacris](https://alacris.io/) | ? | Blockchain | | 
 [BAE Systems](http://www.baesystems.com/en/home) | | | ```Coq``` [Reddit](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/)
 [Bedrock Systems](https://www.bedrocksystems.com/) | USA, Menlo Park, CA | ? | ? 
 [The Boeing Company](http://www.boeing.com/) | USA | Aerospace, Defense |```Coq``` (no proof)

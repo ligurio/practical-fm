@@ -19,7 +19,7 @@ If the company is hiring please include a link to the ad.
 [Bosch](https://www.bosch.com/) | Germany | Automotive | [Astrée](https://www.absint.com/bosch_as.htm)
 [Centaur Technology](https://centtech.com/) | USA | Hardware | ``ACL2`` | ```ACL2``` [Industrial Use of ACL2]
 [Cog Systems](https://cog.systems/) | Australia, New South Wales, Sydney | | [Site](https://cog.systems/d4-secure-sdk/)
-[Data61](https://www.csiro.au/) | Australia | | ``` Isabelle/HOL``` (seL4)
+[Data61](https://www.csiro.au/) | Australia | | ``` Isabelle/HOL``` ([The seL4 verification project](http://ts.data61.csiro.au/projects/seL4-verification/))
 [Ethereum](https://ethereum.org/) | Switzerland | | ```Why3``` [Dev Update: Formal Methods](https://blog.ethereum.org/2016/09/01/formal-methods-roadmap/), ```Isabelle/HOL``` [A Lem formalization of EVM and some Isabelle/HOL proofs](https://github.com/pirapira/eth-isabelle), ```Coq``` [Formal Verification of Ethereum Contracts](https://github.com/pirapira/ethereum-formal-verification-overview)
 [eSpark Learning](https://www.esparklearning.com/) | USA, IL, Chicago | Education | ```TLA+``` [Formal Methods in Practice: Using TLA+ at eSpark Learning](https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f)
 [Elastic](https://www.elastic.co/) | Global | Search & analytics software | ```TLA+``` ```Isabelle/HOL``` [elasticsearch-formal-models repository](https://github.com/elastic/elasticsearch-formal-models) [conference talk](https://www.elastic.co/elasticon/conf/2018/sf/reliable-by-design-applying-formal-methods-to-distributed-systems) and [current open positions](https://www.elastic.co/about/careers#engineering)

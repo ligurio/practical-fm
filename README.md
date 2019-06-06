@@ -27,6 +27,7 @@ If the company is hiring please include a link to the ad.
 [FireEye](https://www.fireeye.com/) | Dresden, Germany (team defunct) | Security | ```Coq``` [Job announcement: formal methods engineer and scientific developer at FireEye](https://coq-club.inria.narkive.com/KjBqxSSI/job-announcement-formal-methods-engineer-and-scientific-developer-at-fireeye)
 [FinProof](https://finproof.io/v2/) | Russia, SPb | Finance (Blockchain) | ```Coq```, ```Agda```
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ```Coq``` (?)
+[Google](https://google.com/) | CA, USA | Cloud computing, Computer software, AI | ```Coq``` ([Simple High-Level Code For Cryptographic Arithmetic – With Proofs, Without Compromises](http://adam.chlipala.net/papers/FiatCryptoSP19/FiatCryptoSP19.pdf) (Chromium))
 [Grammatech](https://www.grammatech.com/about) | | | ```Frama-C``` [C Library annotations in ACSL for Frama-C: experience report](http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf)
 [Green Hills Software](https://www.ghs.com/) | USA | Aerospace | ```ACL2``` [Industrial Use of ACL2](http://www.cs.man.ac.uk/~regerg/arcade/papers/paper_12.pdf)
 IBM | USA | ? | ```SPIN/Promela``` [Paul E. McKenney's Journal](https://paulmck.livejournal.com/tag/promela), [What is RCU, Fundamentally?](https://lwn.net/Articles/262464/) (Linux Kernel, RCU)

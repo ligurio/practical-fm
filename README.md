@@ -62,3 +62,4 @@ CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experim
 * Open vacancies on [indeed.com](https://www.indeed.com/q-Logic-Formal-Verification-jobs.html)
 * [Formal Methods:  Practice and Experience](https://www-users.cs.york.ac.uk/~jw524/papers/WoodcockLBF09.pdf)
 * http://alloytools.org/citations/case-studies.html
+* [Overview of formal methods in software engineering](https://www.foi.se/rest-api/report/FOI-R--4156--SE)

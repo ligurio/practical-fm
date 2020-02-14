@@ -45,6 +45,7 @@ NASA | USA | Space | ```PVS``` [NASA Langley Formal Methods Research Program](ht
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | [Formal Methods in the Aerospace Industry: Follow the Money](http://www.jaist.ac.jp/icfem2012/Cofer-ICFEM2012.pdf)
 [Synopsis](https://www.synopsys.com/) | ? | ? | [Site](https://www.synopsys.com/verification.html)
+[Systerel](https://www.systerel.fr/) | France | Software, Consulting, Service | [S3](https://www.systerel.fr/en/innovation/products/systerel-smart-solver/) a model checker for a synchrone language, [B method](https://www.systerel.fr/en/expertise/formal-methods/b-method/), [Event-b/Rodin](https://www.systerel.fr/en/expertise/formal-methods/rodin-platform/).  [Recruiting](https://www.systerel.fr/actualites/type-offres/offres-emploi/).
 [SiFive](https://www.sifive.com) | USA, San Francisco Bay Area | Hardware | ```Coq``` [LinkedIn](https://www.linkedin.com/jobs/view/coq-proof-assistant-based-formal-verification-at-sifive-800018056/)
 [Statebox](https://statebox.org/) | Amsterdam, Netherlands | Blockchain | ```Idris``` ([github](https://github.com/statebox)) 
 [Sukhoi](https://www.sukhoi.org/) | Russia, Moscow | Aerospace and defense | [```ANSYS SCADE Suite```](https://www.ansys.com/products/embedded-software/ansys-scade-suite) (source - [A Formally Verified Compiler for Lustre](http://www.tbrk.org/papers/pldi17-slides.pdf)) 

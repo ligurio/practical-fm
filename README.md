@@ -64,3 +64,5 @@ CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experim
 * [Formal Methods:  Practice and Experience](https://www-users.cs.york.ac.uk/~jw524/papers/WoodcockLBF09.pdf)
 * http://alloytools.org/citations/case-studies.html
 * [Overview of formal methods in software engineering](https://www.foi.se/rest-api/report/FOI-R--4156--SE)
+* TLA+ http://lamport.azurewebsites.net/tla/industrial-use.html
+* TLA+ https://news.ycombinator.com/item?id=9601770

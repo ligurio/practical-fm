@@ -30,6 +30,7 @@ European Space Agency | | | `TLA+` ([Formal Development of a Network-Centric RTO
 [FinProof](https://finproof.io/v2/) | Russia, SPb | Finance (Blockchain) | ```Coq```, ```Agda```
 [Formal Vindications](formalvindications.com) | Barcelona, Spain | Law | ```Coq``` [Philosophy presentation](http://formalvindications.com/#philosophy)
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ```Coq``` (?)
+[genua GmbH](https://www.genua.de/en/about-us.html) | Germany | | `CPAchecker` [Another Path for Software Quality? Automated Software Verification and OpenBSD](https://doi.asiabsdcon.org/10.25263/asiabsdcon2019/p10b) and [Application of Software Verificationto OpenBSD Network Modules](https://moritzbuhl.de/bachelor-thesis/)
 [Google](https://google.com/) | CA, USA | Cloud computing, Computer software, AI | ```Coq``` ([Simple High-Level Code For Cryptographic Arithmetic – With Proofs, Without Compromises](http://adam.chlipala.net/papers/FiatCryptoSP19/FiatCryptoSP19.pdf) (Chromium))
 [Grammatech](https://www.grammatech.com/about) | | | ```Frama-C``` [C Library annotations in ACSL for Frama-C: experience report](http://annotationsforall.org/resources/links/GT-libc-experience-report.pdf)
 [Green Hills Software](https://www.ghs.com/) | USA | Aerospace | ```ACL2``` [Industrial Use of ACL2](http://www.cs.man.ac.uk/~regerg/arcade/papers/paper_12.pdf)

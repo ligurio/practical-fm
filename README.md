@@ -50,6 +50,7 @@ NASA | USA | Space | ```PVS``` [NASA Langley Formal Methods Research Program](ht
 [Particular Software](https://particular.net/) | | | ```TLA+``` [TLA+ Specifications for NServiceBus](https://github.com/tmasternak/NServiceBus.ModelChecking)
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | [Formal Methods in the Aerospace Industry: Follow the Money](http://www.jaist.ac.jp/icfem2012/Cofer-ICFEM2012.pdf)
+[Serokell](https://serokell.io/#tech) | Tallinn, Estonia | Fintech, blockchain, IoT, machine learning, formal verification | `Agda` 
 [Synopsis](https://www.synopsys.com/) | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [Systerel](https://www.systerel.fr/) | France | Software, Consulting, Service | [S3](https://www.systerel.fr/en/innovation/products/systerel-smart-solver/) a model checker for a synchrone language, [B method](https://www.systerel.fr/en/expertise/formal-methods/b-method/), [Event-b/Rodin](https://www.systerel.fr/en/expertise/formal-methods/rodin-platform/).  [Recruiting](https://www.systerel.fr/actualites/type-offres/offres-emploi/).
 [SiFive](https://www.sifive.com) | USA, San Francisco Bay Area | Hardware | ```Coq``` [LinkedIn](https://www.linkedin.com/jobs/view/coq-proof-assistant-based-formal-verification-at-sifive-800018056/)
@@ -62,6 +63,7 @@ PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia | - | ```Coq```, ```SPIN/Promela```, ```TLA+```, ```McErlang```, ```mCRL2``` [Employee CV](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
 CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experiment at CERN’s Large Hadron Collider](https://www.mcrl2.org/web/user_manual/showcases/CMS.html)
 [Zilliqa](https://zilliqa.com/) | Singapore | Blockchain | ```Coq``` [scilla-coq project](https://github.com/Zilliqa/scilla-coq)
+[Waves](https://wavesprotocol.org/) | | Blockchain | ???
 
 ### See also
 

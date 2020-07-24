@@ -14,7 +14,7 @@ If the company is hiring please include a link to the ad.
 [AdaCore](http://www.adacore.com/company) | USA, New York | ? | ?
 [Alacris](https://alacris.io/) | ? | Blockchain | |
 [BAE Systems](http://www.baesystems.com/en/home) | | | ```Coq``` [Reddit](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/)
-[Bedrock Systems](https://www.bedrocksystems.com/) | USA, Boston & San Mateo, CA; Germany, Berlin & Munich | Systems Security, Trustworthy Compute | ```Coq```, ```C++```, [github](https://github.com/bedrocksystems)
+[Bedrock Systems](https://www.bedrocksystems.com/) | Boston & Bay Area, USA; Berlin & Munich, Germany | Systems Security, Trustworthy Compute | ```Coq```, ```C++```, [github](https://github.com/bedrocksystems)
 [The Boeing Company](http://www.boeing.com/) | USA | Aerospace, Defense |```Coq``` (no proof), ```Ivory``` ([source](https://github.com/GaloisInc/ivory/tree/master/ivory-paper))
 [Bosch](https://www.bosch.com/) | Germany | Automotive | [Astrée](https://www.absint.com/bosch_as.htm)
 [Centaur Technology](https://centtech.com/) | USA | Hardware | ``ACL2`` | ```ACL2``` [Industrial Use of ACL2]

@@ -12,9 +12,9 @@ If the company is hiring please include a link to the ad.
 [Apple](https://www.apple.com/) | Santa Clara Valley, California, USA | Hardware and Software |
 [ARM](https://www.arm.com/company) | USA, California, San Jose | Hardware | [Verifying against the official ARM specification](https://alastairreid.github.io/using-armarm/), ```TLA+``` [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/cmarinas/kernel-tla.git/about/)
 [AdaCore](http://www.adacore.com/company) | USA, New York | ? | ?
-[Alacris](https://alacris.io/) | ? | Blockchain | | 
+[Alacris](https://alacris.io/) | ? | Blockchain | |
 [BAE Systems](http://www.baesystems.com/en/home) | | | ```Coq``` [Reddit](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/)
-[Bedrock Systems](https://www.bedrocksystems.com/) | USA, Menlo Park, CA | ? | ? 
+[BedRock Systems](https://www.bedrocksystems.com/) | Boston & Bay Area, USA; Berlin & Munich, Germany | Systems Security, Trustworthy Compute | ```Coq```, ```C++```, [github](https://github.com/bedrocksystems)
 [The Boeing Company](http://www.boeing.com/) | USA | Aerospace, Defense |```Coq``` (no proof), ```Ivory``` ([source](https://github.com/GaloisInc/ivory/tree/master/ivory-paper))
 [Bosch](https://www.bosch.com/) | Germany | Automotive | [Astrée](https://www.absint.com/bosch_as.htm)
 [Centaur Technology](https://centtech.com/) | USA | Hardware | ``ACL2`` | ```ACL2``` [Industrial Use of ACL2]
@@ -50,12 +50,12 @@ NASA | USA | Space | ```PVS``` [NASA Langley Formal Methods Research Program](ht
 [Particular Software](https://particular.net/) | | | ```TLA+``` [TLA+ Specifications for NServiceBus](https://github.com/tmasternak/NServiceBus.ModelChecking)
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | [Formal Methods in the Aerospace Industry: Follow the Money](http://www.jaist.ac.jp/icfem2012/Cofer-ICFEM2012.pdf)
-[Serokell](https://serokell.io/#tech) | Tallinn, Estonia | Fintech, blockchain, IoT, machine learning, formal verification | `Agda` 
+[Serokell](https://serokell.io/#tech) | Tallinn, Estonia | Fintech, blockchain, IoT, machine learning, formal verification | `Agda`
 [Synopsis](https://www.synopsys.com/) | ? | ? | [Site](https://www.synopsys.com/verification.html)
 [Systerel](https://www.systerel.fr/) | France | Software, Consulting, Service | [S3](https://www.systerel.fr/en/innovation/products/systerel-smart-solver/) a model checker for a synchrone language, [B method](https://www.systerel.fr/en/expertise/formal-methods/b-method/), [Event-b/Rodin](https://www.systerel.fr/en/expertise/formal-methods/rodin-platform/).  [Recruiting](https://www.systerel.fr/actualites/type-offres/offres-emploi/).
 [SiFive](https://www.sifive.com) | USA, San Francisco Bay Area | Hardware | ```Coq``` [LinkedIn](https://www.linkedin.com/jobs/view/coq-proof-assistant-based-formal-verification-at-sifive-800018056/)
-[Statebox](https://statebox.org/) | Amsterdam, Netherlands | Blockchain | ```Idris``` ([github](https://github.com/statebox)) 
-[Sukhoi](https://www.sukhoi.org/) | Russia, Moscow | Aerospace and defense | [```ANSYS SCADE Suite```](https://www.ansys.com/products/embedded-software/ansys-scade-suite) (source - [A Formally Verified Compiler for Lustre](http://www.tbrk.org/papers/pldi17-slides.pdf)) 
+[Statebox](https://statebox.org/) | Amsterdam, Netherlands | Blockchain | ```Idris``` ([github](https://github.com/statebox))
+[Sukhoi](https://www.sukhoi.org/) | Russia, Moscow | Aerospace and defense | [```ANSYS SCADE Suite```](https://www.ansys.com/products/embedded-software/ansys-scade-suite) (source - [A Formally Verified Compiler for Lustre](http://www.tbrk.org/papers/pldi17-slides.pdf))
 [TrustInSoft](https://trust-in-soft.com/) | USA, CA, San Francisco | - | ```TrustInSoft Analyzer``` [Site](https://trust-in-soft.com/polarssl-verification-kit/)
 [Trustworthy Systems](https://ts.data61.csiro.au/) | Australia, Sydney  |  | ```Isabelle/HOL```, ```Coq``` [Site](https://ts.data61.csiro.au/projects/TS/l4.verified/)
 [JetBrains Research](https://jetbrains.org) | Saint Petersburg, Russia | - | `Coq` ([source](https://research.jetbrains.org/ru/groups/group-for-dependent-types-and-hott))

@@ -64,6 +64,7 @@ PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [МЦСТ](http://www.mcst.ru/) | Moscow, Russia | ? | ```SPIN/Promela``` [Методы и средства верификации протоколов когерентности памяти](https://www.youtube.com/watch?v=67eD3hLmU_8&t=43s)
 [T-Platforms](https://www.t-platforms.ru/) | Moscow, Russia | - | ```Coq```, ```SPIN/Promela```, ```TLA+```, ```McErlang```, ```mCRL2``` [Employee CV](https://ru.linkedin.com/in/evgeniy-shishkin-9b1b67b3)
 CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experiment at CERN’s Large Hadron Collider](https://www.mcrl2.org/web/user_manual/showcases/CMS.html)
+[Yandex](https://yandex.com/company/) | | Software | `TLA+` [ClickHouse Replication Algorithm](https://github.com/VadimPlh/Arrival/), [lock-free Memory Allocator](https://github.com/duremar/spec)
 [Zilliqa](https://zilliqa.com/) | Singapore | Blockchain | ```Coq``` [scilla-coq project](https://github.com/Zilliqa/scilla-coq)
 [Waves](https://wavesprotocol.org/) | | Blockchain | ???
 

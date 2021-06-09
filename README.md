@@ -76,3 +76,4 @@ CERN | Genève, Switzerland | | ```mCRL2``` [Control Software of the CMS Experim
 * http://alloytools.org/citations/case-studies.html
 * [Overview of formal methods in software engineering](https://www.foi.se/rest-api/report/FOI-R--4156--SE)
 * TLA+ https://news.ycombinator.com/item?id=9601770
+* [System specifications written in Promela](http://www.pamelazave.com/compare.html)

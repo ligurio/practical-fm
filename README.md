@@ -29,6 +29,7 @@ European Space Agency | | | `TLA+` ([Formal Development of a Network-Centric RTO
 [Facebook](https://www.facebook.com/) | USA |  | ```INFER``` [Moving Fast with Software Verification](https://research.fb.com/wp-content/uploads/2016/11/publication00124_download0001.pdf) ```Zoncolan``` [How Facebook uses static analysis to detect and prevent security issues](https://engineering.fb.com/security/zoncolan/)
 [FireEye](https://www.fireeye.com/) | Dresden, Germany (team defunct) | Security | ```Coq``` [Job announcement: formal methods engineer and scientific developer at FireEye](https://coq-club.inria.narkive.com/KjBqxSSI/job-announcement-formal-methods-engineer-and-scientific-developer-at-fireeye)
 [FinProof](https://finproof.io/v2/) | Russia, SPb | Finance (Blockchain) | ```Coq```, ```Agda```
+[Formal Land](https://formal.land/) | Global | Software | ```Coq``` [Verification of the Tezos blockchain](https://formal-land.gitlab.io/coq-tezos-of-ocaml/)
 [Formal Vindications](formalvindications.com) | Barcelona, Spain | Law | ```Coq``` [Philosophy presentation](http://formalvindications.com/#philosophy)
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ```Coq``` (?)
 [genua GmbH](https://www.genua.de/en/about-us.html) | Germany | | `CPAchecker` [Another Path for Software Quality? Automated Software Verification and OpenBSD](https://doi.asiabsdcon.org/10.25263/asiabsdcon2019/p10b) and [Application of Software Verificationto OpenBSD Network Modules](https://moritzbuhl.de/bachelor-thesis/)

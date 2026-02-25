@@ -20,7 +20,7 @@ If the company is hiring please include a link to the ad.
 [Centaur Technology](https://centtech.com/) | USA | Hardware | ``ACL2`` | ```ACL2``` [Industrial Use of ACL2]
 [Cog Systems](https://cog.systems/) | Australia, New South Wales, Sydney | | [Site](https://cog.systems/d4-secure-sdk/)
 [Data61](https://www.csiro.au/) | Australia | | ``` Isabelle/HOL``` ([The seL4 verification project](http://ts.data61.csiro.au/projects/seL4-verification/))
-[Datadog] (https://www.datadoghq.com/) | USA | Cloud Computing, Software | TLA+ — [How we use formal modeling, lightweight simulations, and chaos testing](https://www.datadoghq.com/blog/engineering/formal-modeling-and-simulation/)
+[Datadog](https://www.datadoghq.com/) | USA | Cloud Computing, Software | TLA+ — [How we use formal modeling, lightweight simulations, and chaos testing](https://www.datadoghq.com/blog/engineering/formal-modeling-and-simulation/)
 [Draper](https://www.draper.com/) | USA | Defense, Space | [```Coq```](https://github.com/draperlaboratory/parts), [```Z3```](https://github.com/draperlaboratory/cbat_tools)
 [Ethereum](https://ethereum.org/) | Switzerland | | ```Why3``` [Dev Update: Formal Methods](https://blog.ethereum.org/2016/09/01/formal-methods-roadmap/), ```Isabelle/HOL``` [A Lem formalization of EVM and some Isabelle/HOL proofs](https://github.com/pirapira/eth-isabelle), ```Coq``` [Formal Verification of Ethereum Contracts](https://github.com/pirapira/ethereum-formal-verification-overview)
 [EdgeSecurity](https://www.edgesecurity.com/) | | Software | `Tamarin` [WireGuard](https://www.wireguard.com/formal-verification/)
